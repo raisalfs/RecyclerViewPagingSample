@@ -1,5 +1,7 @@
 # RecyclerViewPagingSample
 
+![GIF](https://raw.githubusercontent.com/raisalfs/RecyclerViewPagingSample/master/1.gif)
+
 License
 ---------
 
